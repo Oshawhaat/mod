@@ -1,0 +1,6 @@
+{
+        "parent": "minecraft:item/generated",
+        "textures": {
+                "layer0": "suprememachines:item/example_item"
+        }
+}
